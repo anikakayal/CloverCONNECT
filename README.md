@@ -14,7 +14,7 @@ CloverCONNECT is a chat application build using MERN Stack.
 - [Mongodb]
 
 ```shell
-git clone https://github.com/isha0003/CloverCONNECT.git
+git clone https://github.com/anikakayal/CloverCONNECT.git
 cd CloverCONNECT
 ```
 
